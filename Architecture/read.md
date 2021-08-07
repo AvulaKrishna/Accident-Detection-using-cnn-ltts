@@ -6,11 +6,15 @@ Simple Proposed Methodology
 
 # High level design
 
+Behaviour 
+
 Accident detection using convolution neural network. The goal of the project is to reduce the duration time after the accident was done, to contact the emergency services. This document explains the high Level system design Architecture and Datasets.
 
 <img width="440" alt="kkkkkkk" src="https://user-images.githubusercontent.com/88524508/128599574-3e9f271f-a284-498d-a9a9-e5fde880fc3a.png">
 
 # Required design:
+
+UML Design
 
 Step 1: Sample video is taken as input.
 
